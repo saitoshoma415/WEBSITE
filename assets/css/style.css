@@ -245,3 +245,16 @@ form
   text-align: center;
   margin: 20px;
 }
+/* 
+works
+*/
+
+.works {
+  margin: 40px 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.works > img {
+  margin: 0 15px;
+}
